@@ -1,7 +1,7 @@
 package intezers
 
 import (
-	"fmt"
+	// "fmt"
 	"testing"
 )
 
@@ -13,12 +13,12 @@ func TestAdder(t *testing.T) {
 	}
 }
 
-func Add(x, y int) int {
-	return x + y
-}
+// func Add(x, y int) int {
+// 	return x + y
+// }
 
-func sampleAdd() {
-	sum := Add(3, 4)
-	fmt.Println(sum)
+// func sampleAdd() {
+// 	sum := Add(3, 4)
+// 	fmt.Println(sum)
 
-}
+// }
